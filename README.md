@@ -1,14 +1,14 @@
 ![Coverphoto](https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1681948800&v=beta&t=wkXHa2isbxfumFMhbZN5M_PzMgn993aaN38oLqVsmXo)
 <h1 align="center">Hi 👋, I'm Yeakub Sadlil</h1>
-<h3 align="center">I'm intense and passionate in Competitive Programming, Machine Learning,Deep Learning and Computer Networking</h3>
+<h3 align="center">:speaking_head: I'm intense and passionate in Competitive Programming, Machine Learning,Deep Learning and Computer Networking</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
-- 🔭 Working on [Automated Left Ventricular Ejection Fraction Assessment using Deep Learning at Omdena Topeka Local Chapter](https://omdena.com/projects/automated-left-ventricular-ejection-fraction-assessment/)
+- :man_technologist: Working on [Automated Left Ventricular Ejection Fraction Assessment using Deep Learning at Omdena Topeka Local Chapter](https://omdena.com/projects/automated-left-ventricular-ejection-fraction-assessment/)
+- :student: Studied Information & Communication Eng. from **East West University,Dhaka** :bangladesh:
+- :writing_hand: Currently Learning - **Deep Learning, Data Analysis**
 
-- 🌱 Currently Learning - **Deep Learning, Data Analysis**
-
-- 📫 How to reach me **yakubsadlil@gmail.com**
+- :envelope_with_arrow: Reach me **yakubsadlil@gmail.com**
 
 - 📄 Resume http://bit.ly/3xnwoCR
 
