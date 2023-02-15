@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1681948800&v=beta&t=wkXHa2isbxfumFMhbZN5M_PzMgn993aaN38oLqVsmXo)
+![Coverphoto](https://user-images.githubusercontent.com/37358269/218945385-d510aea9-019b-42c5-8ed8-a310acf2b0f7.png)
 <h1 align="center">Hi 👋, I'm Yeakub Sadlil</h1>
 <h3 align="center">I'm intense and passionate in Competitive Programming, Machine Learning,Deep Learning and Computer Networking</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, Data Analysis**
 
-- 💬 Ask me about **Data Structure,ML Algorithms**
-
 - 📫 How to reach me **yakubsadlil@gmail.com**
 
 - 📄 Resume http://bit.ly/3xnwoCR
@@ -17,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yeakub-sadlil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeakub-sadlil/" height="30" width="40" /></a>
-
+<img align="right" alt="Coding" width="100" src="https://www.dropbox.com/s/gs8wau4zmx6edtm/Screenshot%20from%202023-02-15%2011-34-13.png?dl=0">
 <h3 align="left">Programming Profile:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/yeakub_sadlil_seyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yeakub_Sadlil_Seyam" height="30" width="40" /></a>
