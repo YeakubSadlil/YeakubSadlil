@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
-- :man_technologist: Working on [Automated Left Ventricular Ejection Fraction Assessment using Deep Learning at Omdena Topeka Local Chapter](https://omdena.com/projects/automated-left-ventricular-ejection-fraction-assessment/)
-- :student: Studied Information & Communication Eng. from **East West University,Dhaka** :bangladesh:
+- :man_technologist: Interning at Omdena [Automated Left Ventricular Ejection Fraction Assessment using Deep Learning at Topeka Local Chapter](https://omdena.com/projects/automated-left-ventricular-ejection-fraction-assessment/)
+- :student: Studied - B.Sc in Information & Communication Eng. at **East West University,Dhaka** :bangladesh:
 - :writing_hand: Currently Learning - **Deep Learning, Data Analysis**
 
 - :envelope_with_arrow: Reach me **yakubsadlil@gmail.com**
