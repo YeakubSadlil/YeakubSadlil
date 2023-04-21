@@ -1,4 +1,4 @@
-![Coverphoto]([https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1681948800&v=beta&t=wkXHa2isbxfumFMhbZN5M_PzMgn993aaN38oLqVsmXo](https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1687392000&v=beta&t=CAMuGEKe9EcHxTrFFFvEYm0J5HQ9xseZh6FwN1mRcW0))
+![Coverphoto](https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1687392000&v=beta&t=CAMuGEKe9EcHxTrFFFvEYm0J5HQ9xseZh6FwN1mRcW0)
 <h1 align="center">Hi 👋, I'm Yeakub Sadlil</h1>
 <h3 align="center">:speaking_head: I'm intense and passionate in Competitive Programming, Machine Learning, Data Science | Expert on Kaggle | Experienced with Computer Vision, C++, Python, Debian Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
