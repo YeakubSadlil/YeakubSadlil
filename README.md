@@ -1,10 +1,10 @@
-![Coverphoto](https://media.licdn.com/dms/image/D5616AQG-scdB9AIiHQ/profile-displaybackgroundimage-shrink_350_1400/0/1673553583594?e=1695859200&v=beta&t=asqCuEa4gyUJeZ3D5wJPg1T1O2JQRlxSNMwmT99zY94)
+
 <h1 align="center">Hi 👋, I'm Yeakub Sadlil</h1>
 <h3 align="center">:speaking_head: I'm intense and passionate in Competitive Programming, Machine Learning, Data Science | Expert on Kaggle | Experienced with Computer Vision, C++, Python, Debian Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
-- :man_technologist: [Local Chapter Lead (Machine Learning)](https://omdena.com/local-chapters/dhaka-bangladesh-chapter/)  at Omdena
+- :man_technologist: [Junior Machine Learning Engineer](https://omdena.com/local-chapters/dhaka-bangladesh-chapter/)  at Omdena
 - Studied - B.Sc in Information & Communication Eng. at **East West University, Bangladesh** 
 - Currently Learning - **Computer Vision, Geospatial Analysis**
 
