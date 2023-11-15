@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yeakub Sadlil</h1>
-<h3 align="center">:speaking_head:Junior Machine Learning Engineer @ Omdena | Kaggle Expert | Experienced with Competitive Programming, Computer Vision, C++, Python, Debian Linux. Seeking entry-level Software Engineer or ML jobs</h3>
+<h3 align="center">:speaking_head: Kaggle Expert | Experienced with Competitive Programming | Computer Vision | C++ | Python | Debian Linux</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
