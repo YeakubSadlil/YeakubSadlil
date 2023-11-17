@@ -38,8 +38,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"  title="Matlab"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/> 
 <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/> 
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML" width="40" height="40" title="HTML"/> 
 <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React" width="40" height="40" title="React"/> 
 <img src="https://www.svgrepo.com/show/368775/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
