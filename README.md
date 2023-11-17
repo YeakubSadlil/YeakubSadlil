@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yeakub-sadlil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeakub-sadlil/" height="30" width="40" /></a>
 
-<h3 align="left">Programming Profile:</h3>
+<h3 align="left">Programming Profile: (Click to Explore)</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/yeakub_sadlil_seyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yeakub_Sadlil_Seyam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/seyam_sadlil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seyam_sadlil" height="30" width="40" /></a>
@@ -28,19 +28,22 @@
 <img align="right" alt="Coding" height="300" width="500" src="https://user-images.githubusercontent.com/37358269/218945385-d510aea9-019b-42c5-8ed8-a310acf2b0f7.png">
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="LINUX" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/368775/javascript.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="40" height="40"/> 
+<p
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" title="Bash"/>
+ 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"  title="Matlab"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/> 
+<br>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML" width="40" height="40" title="HTML"/> 
+<img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React" width="40" height="40" title="React"/> 
+<img src="https://www.svgrepo.com/show/368775/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40" title="SQL"/> 
+<img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="40" height="40" title="Tensorflow"/> 
 
 </p>
