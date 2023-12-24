@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
 - :man_technologist: 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐐𝐮𝐚𝐧𝐭 𝐅𝐞𝐥𝐥𝐨𝐰𝐬𝐡𝐢𝐩 at [𝐀𝐧𝐜𝐡𝐨𝐫𝐛𝐥𝐨𝐜𝐤 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲](https://www.linkedin.com/company/anchorblock/)
-- :man_technologist: Ex. Junior Machine Learning Engineer at [Omdena](https://omdena.com/local-chapters/dhaka-bangladesh-chapter/)
+- :man_technologist: Ex. Junior Machine Learning Engineer and Local Chapter Lead at [Omdena](https://omdena.com/local-chapters/dhaka-bangladesh-chapter/)
 - Studied - B.Sc in Information & Communication Eng. at **East West University, Bangladesh** 
-- Currently Learning - **Computer Vision, ML Trading and Quant Analysis**
 
 - Reach me **yakubsadlil@gmail.com**
 
