@@ -10,7 +10,7 @@
 
 - Reach me **yakubsadlil@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1Sgp2iuC2fe49VUXmFLbcXcVQM_NLsUYv/view?usp=sharing">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1S8Ogxilv-M32as1Cw4UlAM6StE0vWPWW/view?usp=drive_link">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Programming Profile: (Click to Explore)</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/yeakub_sadlil_seyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yeakub_Sadlil_Seyam" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yeakub_sadlil/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yeakub_sadlil" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/seyam_sadlil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seyam_sadlil" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/profile/yakubsadlil" target="blank"><img align="center" src="https://www.svgrepo.com/show/349332/datacamp.svg" alt="yakubsadlil" height="30" width="40" /></a>
 <a href="https://kaggle.com/yakubsadlil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yakubsadlil" height="30" width="40" /></a>
@@ -44,5 +44,6 @@
 <img src="https://www.svgrepo.com/show/368775/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40" title="SQL"/> 
 <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" width="40" height="40" title="Tensorflow"/> 
+<img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40" title="Django"/> 
 
 </p>
