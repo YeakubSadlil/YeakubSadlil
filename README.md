@@ -10,7 +10,7 @@
 
 - Reach me **yakubsadlil@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1S8Ogxilv-M32as1Cw4UlAM6StE0vWPWW/view?usp=drive_link">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1JGP31M_PExR6mGBTFPTcgQ3iM-adE_Fo/view?usp=drive_link">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -64,7 +64,6 @@
 
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/7192b250-7adf-4699-ba8e-bc0c2656edac" alt="LeetCode" style="padding-right: 120px;" />
+  <img src="https://github.com/user-attachments/assets/4ca513d6-c799-4816-9c70-a9e8cee02af5" alt="LeetCode" style="padding-right: 120px;" />
 <!--   <img src="https://user-images.githubusercontent.com/37358269/218945385-d510aea9-019b-42c5-8ed8-a310acf2b0f7.png" alt="Coding" height="300" width="500" /> -->
 </div>
-
