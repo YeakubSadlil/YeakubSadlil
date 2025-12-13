@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <h3 align="left">Programming Profile: (LeetCode Max 1722)</h3>
+    <h3 align="left">Programming Profile: (LeetCode Max 1830)</h3>
     <p align="left">
       <a href="https://leetcode.com/u/yeakub_sadlil/" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="yeakub_sadlil" height="30" width="40" />
