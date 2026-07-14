@@ -4,13 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakub-sadlil-seyam&label=Profile%20views&color=0e75b6&style=flat" alt="yakub-sadlil-seyam" /> </p>
 
+- :man_technologist: Software Support Engineer at [Combined Military Hospital (CMH)](https://dgmsbd.net/cmhs-institution)
 - :man_technologist: Python Quantitative Analyst at [𝐀𝐧𝐜𝐡𝐨𝐫𝐛𝐥𝐨𝐜𝐤 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲](https://www.linkedin.com/company/anchorblock/)
 - :man_technologist: Ex. Junior Machine Learning Engineer and Local Chapter Lead at [Omdena](https://omdena.com/local-chapters/dhaka-bangladesh-chapter/)
 - Studied - B.Sc in Information & Communication Eng. at **East West University, Bangladesh** 
 
 - Reach me **yakubsadlil@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1pFWybKXES4iV_SkpUnVtIhC8_RwfT37E/view?usp=drive_link">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1uz1vfvv89Y7XPoYiVf8347PL014IDFm9/view?usp=drive_link">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,9 +33,6 @@
       </a>
       <a href="https://kaggle.com/yakubsadlil" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yakubsadlil" height="30" width="40" />
-      </a>
-      <a href="https://www.stopstalk.com/user/profile/Yakub_Sadlil_Seyam" target="blank">
-        <img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="seyam_sadlil" height="30" width="35" />
       </a>
     </p>
   </div>
@@ -64,6 +62,5 @@
 
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/4ca513d6-c799-4816-9c70-a9e8cee02af5" alt="LeetCode" style="padding-right: 120px;" />
-<!--   <img src="https://user-images.githubusercontent.com/37358269/218945385-d510aea9-019b-42c5-8ed8-a310acf2b0f7.png" alt="Coding" height="300" width="500" /> -->
+  <img src="https://github.com/user-attachments/assets/0eed5c15-f4c8-45a7-aacb-b6899e23500d" alt="LeetCode" style="padding-right: 120px;" />
 </div>
